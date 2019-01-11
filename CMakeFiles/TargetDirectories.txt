@@ -1,0 +1,4 @@
+/root/test1/CMakeFiles/rebuild_cache.dir
+/root/test1/CMakeFiles/edit_cache.dir
+/root/test1/CMakeFiles/square.dir
+/root/test1/CMakeFiles/app.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libsquare.so -o libsquare.so CMakeFiles/square.dir/src/func.c.o 
