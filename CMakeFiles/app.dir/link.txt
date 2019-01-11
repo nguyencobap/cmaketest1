@@ -1,1 +1,0 @@
-/usr/bin/cc   -rdynamic CMakeFiles/app.dir/src/main.c.o  -o bin/app -Wl,-rpath,/root/test1 libsquare.so 

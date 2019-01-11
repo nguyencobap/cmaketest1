@@ -1,6 +1,6 @@
 #include <header.h>
-int main(){
-  printf("Nhap a:");
-  scanf("%d",&s);
-  binhphuong();
+int main(int argc, char *argv[]){
+  int s=cStringToInt(argv[1]);
+  binhphuong(s);
+  printf("%d\n",r );
 }

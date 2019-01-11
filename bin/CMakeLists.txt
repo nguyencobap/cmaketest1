@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8.9)
+project(mySquare)
+include_directories("/root/test1/include")
+file(GLOB SOURCES "/root/test1/src/func.c")
+add_library(square SHARED "/root/test1/src/func.c")
+add_executable(app "/root/test1/src/main.c")
+target_link_libraries(app square)

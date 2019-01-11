@@ -3,7 +3,9 @@
 
 #include <stdio.h>
 #include <math.h>
-int s,r;
+#include <string.h>
+#include <stdlib.h>
+int r;
 int binhphuong();
-
+int cStringToInt();
 #endif
