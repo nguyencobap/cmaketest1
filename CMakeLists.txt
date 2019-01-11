@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 2.8.9)
 project(mySquare)
+set(EXECUTABLE_OUTPUT_PATH ./bin)
 include_directories(include)
 file(GLOB SOURCES "./src/func.c")
 add_library(square SHARED "./src/func.c")
