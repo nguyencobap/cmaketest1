@@ -1,6 +1,6 @@
 *---TiengViet---*  
 File thuc thi "app" trong thu muc ./bin  
-*---TiengAnh---*  
+*---English---*  
 Executable file named "app" stored in ./bin  
 
 master
